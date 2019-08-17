@@ -1,0 +1,39 @@
+<script type='text/javascript'>
+ $(function() {
+   Dashing.gridsterLayout('[{"col":1,"row":1,"size_x":2,"size_y":1},{"col":1,"row":2,"size_x":1,"size_y":1},{"col":2,"row":2,"size_x":1,"size_y":1},{"col":3,"row":2,"size_x":1,"size_y":1},{"col":4,"row":1,"size_x":1,"size_y":1},{"col":3,"row":1,"size_x":1,"size_y":1},{"col":4,"row":2,"size_x":1,"size_y":1}]')
+ });
+ </script>
+
+<% content_for :title do %>Output Dashboard<% end %>
+<div class="gridster">
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="Greetings" data-view="Text" data-title="Welcome to" data-text="Real-time Vehicle Classification & Counter" data-moreinfo="Lebuhraya Bukit Jalil Ext. 217 near Bandar Kinrar, Puchong"></div>
+    </li>
+
+   <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="totalcarcount" data-view="Text" data-title="Car Count" data-text="0" data-moreinfo=""></div>
+    </li>
+
+   <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="totalbikecount" data-view="Text" data-title="Bike Count" data-text="0" data-moreinfo=""></div>
+    </li>
+
+   <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="totalcount" data-view="Text" data-title="Total Count" data-text="0" data-moreinfo=""></div>
+    </li>
+
+   <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="trafficstatus" data-view="Text" data-title="Traffic Status" data-text="Unavailable" data-moreinfo=""></div>
+    </li>
+
+   <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="TwelveHourClock"></div>
+   </li>
+
+   <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="trafficvolume" data-view="Meter" data-title="Traffic Volume" data-height="200" data-width="200" data-min="0" data-max="30" data-suffix=""></div>
+    </li>
+   
+  </ul>
+ 

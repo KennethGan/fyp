@@ -1,0 +1,18 @@
+---
+convergence: "data: {\"points\":[{\"x\":8,\"y\":31},{\"x\":9,\"y\":3},{\"x\":10,\"y\":36},{\"x\":11,\"y\":47},{\"x\":12,\"y\":17},{\"x\":13,\"y\":14},{\"x\":14,\"y\":37},{\"x\":15,\"y\":17},{\"x\":16,\"y\":18},{\"x\":17,\"y\":12}],\"id\":\"convergence\",\"updatedAt\":1564756326133}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Streamlininess\",\"value\":2},{\"label\":\"Pivoting\",\"value\":3},{\"label\":\"Enterprise\",\"value\":1},{\"label\":\"Paradigm
+  shift\",\"value\":1}],\"id\":\"buzzwords\",\"updatedAt\":1564756326133}\n\n"
+valuation: "data: {\"current\":65,\"last\":89,\"id\":\"valuation\",\"updatedAt\":1564756326135}\n\n"
+karma: "data: {\"current\":166547,\"last\":7212,\"id\":\"karma\",\"updatedAt\":1564756326135}\n\n"
+synergy: "data: {\"value\":36,\"id\":\"synergy\",\"updatedAt\":1564756326135}\n\n"
+welcome: "data: {\"text\":\"Python Greetings!!\",\"id\":\"welcome\",\"updatedAt\":1561754625294}\n\n"
+carstats: "data: {\"List\":{\"hello\":\"0\"},\"id\":\"carstats\",\"updatedAt\":1561754661857}\n\n"
+totalcarcount: "data: {\"text\":\"2\",\"id\":\"totalcarcount\",\"updatedAt\":1565421051422}\n\n"
+totalbuscount: "data: {\"text\":\"0\",\"id\":\"totalbuscount\",\"updatedAt\":1564125143231}\n\n"
+totalbikecount: "data: {\"text\":\"1\",\"id\":\"totalbikecount\",\"updatedAt\":1565421051425}\n\n"
+totalcount: "data: {\"text\":\"3\",\"id\":\"totalcount\",\"updatedAt\":1565421051428}\n\n"
+totalpersoncount: "data: {\"text\":\"0\",\"id\":\"totalpersoncount\",\"updatedAt\":1564736515128}\n\n"
+trafficstatus: "data: {\"text\":\"Heavy\",\"id\":\"trafficstatus\",\"updatedAt\":1565421051430}\n\n"
+trafficvolume: "data: {\"value\":18,\"id\":\"trafficvolume\",\"updatedAt\":1565421051433}\n\n"
+trafficgraph: "data: {\"points\":{\"0\":4},\"id\":\"trafficgraph\",\"updatedAt\":1564754990361}\n\n"
+:market_value: "data: {\"points\":[{\"x\":1980,\"y\":1323},{\"x\":1981,\"y\":53234},{\"x\":1982,\"y\":2344},{\"x\":1983,\"y\":60000}],\"id\":\"market_value\",\"updatedAt\":1564752317682}\n\n"
