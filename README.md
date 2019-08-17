@@ -1,4 +1,5 @@
-# Realtime Vehicle Classification and Counting
+# Realtime Vehicle Classification and Counting with Lane Detection (Intel Neural Compute Stick 2)
+Requires Intel OpenVINO, Python3 and OpenCV.
 
 # 1. Download the file
 Download the "fyp-master.zip".
