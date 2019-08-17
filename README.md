@@ -2,7 +2,7 @@
 Requires Intel OpenVINO, Python3 and OpenCV.
 
 # 1. Download the file
-Download the "fyp-master.zip".
+Download this repository "fyp-master.zip".
 
 # 2. Video sample link
 Download the video file https://youtu.be/hbZ9GSciQGo then rename it to "sample.mp4" and save to desktop.
