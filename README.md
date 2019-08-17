@@ -10,4 +10,5 @@ Download the video file https://youtu.be/hbZ9GSciQGo then rename it to "sample.m
 # 3. Tutorial link
 Follow the steps in https://youtu.be/kt-TONPk8R4 
 
-
+# 4. To run main.py only
+Follow instructions in AdditionalUsage.txt
