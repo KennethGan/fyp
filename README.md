@@ -1,4 +1,3 @@
-# fyp
 # Realtime Vehicle Classification and Counting
 
 Download the "fyp-master.zip" and extract "fyp" file to desktop
