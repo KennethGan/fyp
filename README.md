@@ -1,6 +1,7 @@
 # Realtime Vehicle Classification and Counting
 
 Download the "fyp-master.zip" and extract "fyp" file to desktop
+Video tutorial: https://youtu.be/kt-TONPk8R4
 
 # Usage: (copy and paste command to terminal)
 $ cd ~/Desktop/fyp
